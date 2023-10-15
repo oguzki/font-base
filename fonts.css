@@ -19,6 +19,11 @@
 }
 
 @font-face {
+	font-family: 'LEMONMILK-Medium';
+	src: url(fonts/LEMONMILK-Medium.otf);
+}
+
+@font-face {
 	font-family: 'NotoEmoji';
 	src: url(fonts/NotoEmoji-VariableFont.ttf);
 }
