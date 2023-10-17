@@ -19,6 +19,11 @@
 }
 
 @font-face {
+	font-family: 'PermanentMarker';
+	src: url(fonts/PermanentMarker.ttf);
+}
+
+@font-face {
 	font-family: 'LEMONMILK-Medium';
 	src: url(fonts/LEMONMILK-Medium.otf);
 }
@@ -31,10 +36,4 @@
 @font-face {
 	font-family: 'NotoColorEmoji';
 	src: url(fonts/NotoColorEmoji-Regular.ttf);
-}
-
-
-@font-face {
-	font-family: 'PermanentMarker';
-	src: url(fonts/PermanentMarker.ttf);
 }
