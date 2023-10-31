@@ -4,6 +4,11 @@
 }
 
 @font-face {
+	font-family: 'Ubuntu-Regular';
+	src: url(fonts/Ubuntu-Regular.ttf);
+}
+
+@font-face {
 	font-family: 'HemiHead';
 	src: url(fonts/HemiHead.otf);
 }
