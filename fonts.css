@@ -39,6 +39,11 @@
 }
 
 @font-face {
+	font-family: 'Pacifico';
+	src: url(fonts/Pacifico-Regular.ttf);
+}
+
+@font-face {
 	font-family: 'NotoEmoji';
 	src: url(fonts/NotoEmoji-VariableFont.ttf);
 }
