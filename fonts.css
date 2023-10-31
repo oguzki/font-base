@@ -1,6 +1,6 @@
 @font-face {
-	font-family: 'Ubuntu';
-	src: url(fonts/Ubuntu.ttf);
+	font-family: 'Ubuntu-Medium';
+	src: url(fonts/Ubuntu-Medium.ttf);
 }
 
 @font-face {
@@ -24,8 +24,13 @@
 }
 
 @font-face {
-	font-family: 'JosefinSans';
-	src: url(fonts/JosefinSans-VariableFont.ttf);
+	font-family: 'AlumniSansCollegiateOne';
+	src: url(fonts/AlumniSansCollegiateOne-Regular.ttf);
+}
+
+@font-face {
+	font-family: 'Jost-Regular';
+	src: url(fonts/Jost-Regular.ttf);
 }
 
 @font-face {
