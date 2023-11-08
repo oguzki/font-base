@@ -44,6 +44,11 @@
 }
 
 @font-face {
+	font-family: 'HammersmithOne';
+	src: url(fonts/HammersmithOne-Regular.ttf);
+}
+
+@font-face {
 	font-family: 'NotoEmoji';
 	src: url(fonts/NotoEmoji-VariableFont.ttf);
 }
