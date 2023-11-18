@@ -19,6 +19,11 @@
 }
 
 @font-face {
+	font-family: 'JetBrainsMono-Bold';
+	src: url(fonts/JetBrainsMono-Bold.ttf);
+}
+
+@font-face {
 	font-family: 'OpenSans-Light';
 	src: url(fonts/OpenSans-Light.ttf);
 }
