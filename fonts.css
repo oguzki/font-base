@@ -69,6 +69,11 @@
 }
 
 @font-face {
+	font-family: 'Righteous';
+	src: url(fonts/Righteous-Regular.ttf);
+}
+
+@font-face {
 	font-family: 'NotoEmoji';
 	src: url(fonts/NotoEmoji-VariableFont.ttf);
 }
