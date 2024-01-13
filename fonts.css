@@ -9,6 +9,11 @@
 }
 
 @font-face {
+	font-family: 'Ubuntu-Light';
+	src: url(fonts/Ubuntu-Light.ttf);
+}
+
+@font-face {
 	font-family: 'HemiHead';
 	src: url(fonts/HemiHead.otf);
 }
