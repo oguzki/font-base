@@ -98,3 +98,8 @@
 	font-family: 'NotoColorEmoji';
 	src: url(fonts/NotoColorEmoji-Regular.ttf);
 }
+
+@font-face {
+	font-family: 'LibreBarcode39Text';
+	src: url(fonts/LibreBarcode39Text-Regular.ttf);
+}
